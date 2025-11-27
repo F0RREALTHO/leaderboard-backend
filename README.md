@@ -138,7 +138,7 @@ GET /leaderboard/movement
 
 ### **1. Clone repository**
 ```sh
-git clone https://github.com/FORREALTHO/leaderboard
+git clone https://github.com/FORREALTHO/leaderboard-backend
 cd leaderboard
 ```
 
