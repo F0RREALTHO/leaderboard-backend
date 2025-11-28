@@ -173,7 +173,7 @@ Columns C–Z (24 events)
 
 ---
 
-# 🧪 Testing (Optional but recommended)
+# 🧪 Testing
 
 Use Postman or browser:
 
